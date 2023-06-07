@@ -2,7 +2,7 @@
 
 [해당페이지로 이동](https://kkuunnyu.github.io/testStarbucks)
 
-# 프로젝트 명 : Starbucks Clone Codding
+# 프로젝트 명 : Starbucks Clone Coding
 
 ## 제작기간 : 3일
 
